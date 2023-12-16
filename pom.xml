@@ -11,7 +11,7 @@
         <repository>
             <id>glassfish-repo-archive</id>
             <name>Nexus repository collection for Glassfish</name>
-            <url>http://maven.glassfish.org/content/groups/glassfish</url>
+            <url>https://maven.glassfish.org/content/groups/glassfish</url>
             <snapshots>
                 <updatePolicy>never</updatePolicy>
             </snapshots>
